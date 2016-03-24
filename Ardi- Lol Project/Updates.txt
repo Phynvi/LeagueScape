@@ -1,0 +1,10 @@
+- Changed starting location
+- Removed useless stuff
+- Removed awful stuff
+- Fixed 3 recently found unkown dupes
+- Fixed Clan Chat System
+- Removed 4 of the 5 stalls in edgeville
+- The 1 left stall in home gives different amount of coins/xp depending on thieving level
+- Full clipping system re-done
+- Fixed more 2 found dupes
+- Removed teleports to re-do it
